@@ -1,50 +1,63 @@
 # Movie Ticket Booking System
 
-A simple **Movie Ticket Booking System** built using Python. This beginner-friendly project allows users to select a movie, choose the number of tickets, calculate the total price, and make multiple bookings.
+A simple **Movie Ticket Booking System** built using Python. This beginner-friendly project allows users to view movies, book tickets, view bookings, search bookings, and cancel bookings.
 
 ## Features
 
-- Display available movies
-- Select a movie
-- Enter the number of tickets
+- View available movies
+- Display movie prices
+- Book movie tickets
+- Add customer details
 - Calculate total ticket price
-- Continue booking multiple times
+- Generate unique booking ID
+- View all bookings
+- Search booking by booking ID
+- Cancel booking
 - Exit the system
 
 ## Technologies Used
 
 - Python
-- Dictionary
-- While Loop
-- If-Else Statements
-- User Input
+- Dictionaries
+- Nested dictionaries
+- `while` loop
+- `for` loop
+- `if-elif-else`
+- User input
 
 ## How to Run
 
 1. Make sure Python is installed.
-2. Open the project folder in the terminal.
-3. Run the following command:
+2. Open the project folder in VS Code.
+3. Open the terminal.
+4. Run the following command:
 
-```bash
-python movie_booking.py
+    python movie-system.py
 
-Concepts Learned
-Dictionaries
-while loop
-if-else statements
-User input
-Arithmetic operations
-Menu-driven programs
-Future Improvements
-Add seat selection
-Prevent double booking of seats
-Add customer details
-Add payment options
-Store booking history
+## Concepts Learned
 
+- Dictionary operations
+- Nested dictionaries
+- Loops
+- Conditional statements
+- User input
+- Adding and deleting data
+- Searching data
+- Menu-driven programming
+- Basic ticket booking logic
+- Price calculation
+- Unique booking IDs
 
-Author
+## Future Improvements
 
-Siddhi Deshmukh
+- Add seat availability
+- Add different movie timings
+- Add theatre selection
+- Add payment options
+- Add ticket printing
+- Add booking date and time
+- Store bookings permanently
 
+## Author
 
+**Siddhi Deshmukh**
