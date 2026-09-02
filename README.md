@@ -58,6 +58,4 @@ A simple **Movie Ticket Booking System** built using Python. This beginner-frien
 - Add booking date and time
 - Store bookings permanently
 
-## Author
 
-**Siddhi Deshmukh**
